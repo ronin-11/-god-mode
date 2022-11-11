@@ -2,8 +2,8 @@
   Machine Learning Assignment
   ===========================
 
-  Group Members:  Nyanhanga Takudzwa Titus R204543C
-                  Lloyd Masuko R204541G
+  Group Members:  ABEL TEMBO
+                  MALCOM JAYAGURU
 
   Deployed on Streamlit
 """
