@@ -36,7 +36,7 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 numpy==1.23.4
 oauthlib==3.2.2
-opencv-python-headless
+opencv-python-headless==4.5.1.48
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.5.1
@@ -66,6 +66,7 @@ sklearn==0.0
 smmap==5.0.0
 streamlit==1.14.0
 streamlit-autorefresh==0.0.1
+streamlit-webrtc==0.34.2
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
